@@ -1,6 +1,6 @@
 # GPU4CO
 
-Replication code for *Covering Location Optimization at GPU Speed* by Yun-Tian Zhang. The paper is available on arXiv: [arXiv:2609.28084](https://arxiv.org/abs/2609.28084).
+Replication code for *Covering Location Optimization at GPU Speed* by Yun-Tian Zhang. The paper is available on arXiv: [arXiv:2611.25434](https://arxiv.org/abs/2611.25434).
 
 ## To run the algorithm
 
